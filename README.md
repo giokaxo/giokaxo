@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub Profile!
 
-Frontend Engineer from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪 with 6+ years of experience
+Frontend Engineer from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪 with 6+ years of experience.
 
 #### 📫 How to reach me
 
