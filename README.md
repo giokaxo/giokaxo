@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub Profile!
 
-Frontend Engineer from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪.
+Frontend Engineer from [Georgia](https://en.wikipedia.org/wiki/Georgia_(country)) 🇬🇪 currently located in Barcelona, Spain 🇪🇸.
 
 #### 📫 How to reach me
 
